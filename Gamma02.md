@@ -1,4 +1,4 @@
-![https://www.youtube.com/watch?v=BKmMNuJLXaw](https://www.youtube.com/watch?v=BKmMNuJLXaw)
+[https://www.youtube.com/watch?v=BKmMNuJLXaw](https://www.youtube.com/watch?v=BKmMNuJLXaw)
 
 超時短AIツール「Gamma AI」でプレゼン資料作成を爆速で終わらせる方法
 
