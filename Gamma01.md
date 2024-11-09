@@ -1,8 +1,8 @@
 # 【これ最強！】遂に資料生成AI「Gamma」が驚愕レベルになったので使い方・活用法を徹底解説！
 
-[マインドマップで要約 : ](https://mapify.so/ja/app/5bb696c1-00f5-4704-9b38-8bbda8b8a2f3?from=extension)
+マインドマップ　https://mapify.so/ja/app/5bb696c1-00f5-4704-9b38-8bbda8b8a2f3?from=extension
 
-[url](https://www.youtube.com/watch?v=QEPjooQWRyw)
+https://www.youtube.com/watch?v=QEPjooQWRyw
 
 資料作成AI「ガンマ」活用方法詳細
 
